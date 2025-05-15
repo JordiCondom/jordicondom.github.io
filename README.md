@@ -1,7 +1,9 @@
 # 👋 Welcome to my webpage!
 
-I'm **Jordi Guillem Condom Tibau**.
+I'm **Jordi Guillem Condom Tibau** :). I am interested in studying various phenomena that occur on social media platforms, particularly those that can lead to negative outcomes for individuals and communities. My research focuses on issues such as the spread of mis/dis/malinformation, and hate speech, as well as exploring effective ways to address and mitigate these challenges. 
 
+
+If you have any questions or would like to get in touch, feel free to reach out!
 - 🔗 [GitHub Profile](https://github.com/JordiCondom)
 - 📧 Email: jordi.condomitibau@unitn.it
 
