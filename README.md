@@ -9,7 +9,7 @@ I'm **Jordi Guillem Condom Tibau**.
 
 ## 👨‍💻 Current and Previous Experiences
 
-I'm currently a **Research Assistant** at the University of Trento within the **[AI4Trust project](https://cordis.europa.eu/project/id/101070190)**, collaborating closely with the [Complex Human Behaviour Lab (CHuB)](https://www.fbk.eu/en/chub/) at **Fondazione Bruno Kessler**.
+I'm currently a **Research Assistant** at the University of Trento within the **[AI4Trust project](https://cordis.europa.eu/project/id/101070190)**, collaborating closely with the Complex Human Behaviour Lab (CHuB) at **Fondazione Bruno Kessler**.
 
 Previously, I have had the opportunity to carry out a research visit to the **Computational Social Science Group** at the **Technical University of Munich**, working on **Hate Speech** and **Counter Speech** dynamics in online platforms, focusing on LGBTQ communities on TikTok.
 
