@@ -25,14 +25,14 @@ I hold a **Bachelor’s Degree in Mathematics** from the *Universitat Politècni
 
 - **(To appear, ICWSM 2025)**  
   *Substance, Prevalence and Responses to Hate Speech Against LGBTQ Communities on TikTok*  
-  **Authors**: Jordi Guillem Condom Tibau, Angelina Voggenreiter, Elena Pavan, Jürgen Pfeffer
+  **Authors**: Jordi Guillem Condom Tibau, Angelina Voggenreiter, elena pavan, Jürgen Pfeffer
 
 ---
 
 ## 🎤 Selected Talks
 
 - **Detection of Calcium Sparks in Cardiac Cells Using Deep Learning and Biophysical Models**  
-  *XXXVII Trobades Científiques de la Mediterrània – Physics in Biology and Medicine, 2022*
+  *XXXVII Trobades Científiques de la Mediterrània – Physics in Biology and Medicine Workshop, 2022*
 
 - (Upcoming) **Multilevel Pipeline for Tackling Potential Disinformative Content in YouTube**  
   *Conference on Complex Systems (CCS), 2025*  
