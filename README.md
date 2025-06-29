@@ -25,7 +25,7 @@ I hold a **Bachelor’s Degree in Mathematics** from the *Universitat Politècni
 
 ## 📄 Publications
 
-- **(To appear, ICWSM 2025)**  
+- **ICWSM 2025**  
   *Substance, Prevalence and Responses to Hate Speech Against LGBTQ Communities on TikTok*  
   **Authors**: Jordi Guillem Condom Tibau, Angelina Voggenreiter, elena pavan, Jürgen Pfeffer
 
