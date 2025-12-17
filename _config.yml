@@ -26,8 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "Jordi Condom"
   pronouns         : # example: "she/her"  
-  bio              : ""
-  location         : "Earth"
+  bio              : # ""
+  location         : # "Earth"
   employer         : "University of Pisa"
   uri              : # URL
   email            : "jordi.condom@phd.unipi.it" 
