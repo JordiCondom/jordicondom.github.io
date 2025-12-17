@@ -12,3 +12,5 @@ I am a PhD student within the [National PhD in Artificial Intelligence and Socie
 
 ## Research Interests
 My research focuses on issues such as the spread of mis/dis/malinformation, and hate speech, as well as exploring effective ways to address and mitigate these challenges.
+
+## News
