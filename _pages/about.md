@@ -16,6 +16,10 @@ At a high level, my research focuses on making online spaces safer and more incl
 
 When I'm offline, I am probably watching birds.
 
+## Contact
+
+Email: jordi.condom[at]phd.unipi.it
+
 ## News
 
 
